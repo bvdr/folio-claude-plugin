@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "folio",
+  "displayName": "Folio",
+  "version": "1.0.0",
+  "description": "Send anything worth reading to your reMarkable or Kindle. Saves articles and written text to your Folio inbox, bundles them into typeset issues, and delivers PDFs and EPUBs to your e-ink device, Dropbox or Google Drive.",
+  "author": {
+    "name": "Folio",
+    "email": "hello@myfolio.so",
+    "url": "https://myfolio.so"
+  },
+  "homepage": "https://myfolio.so",
+  "repository": "https://github.com/bvdr/folio-claude-plugin",
+  "license": "MIT",
+  "keywords": ["reading", "read-later", "remarkable", "kindle", "e-ink", "pdf", "epub", "rss"]
+}
