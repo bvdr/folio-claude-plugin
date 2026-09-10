@@ -36,7 +36,7 @@ Six skills, each covering one thing you would ask for:
 | `read-the-inbox` | Listing, searching and reading what you already saved |
 | `research-and-send` | Writing a brief or summary and delivering it as a PDF |
 | `send-to-device` | Sending a PDF or EPUB you produced to a device |
-| `write-on-templates` | Planners, trackers and note layouts drawn for the pen |
+| `write-on-templates` | Planners, trackers and note layouts drawn for the pen, using our catalogue at [einktemplates.net](https://einktemplates.net) |
 | `set-up-routines` | RSS subscriptions and recurring deliveries |
 
 They run against the Folio MCP server, which exposes read tools for your inbox, issues, feeds, schedules and delivery targets, and write tools for saving, rendering and sending. Read tools are annotated read-only; tools that remove or replace something are annotated destructive, so Claude asks before running them.
