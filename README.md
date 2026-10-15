@@ -15,7 +15,7 @@ This plugin gives Claude access to a Folio account, so a piece of work can end o
 /plugin install folio@claude-community
 ```
 
-On first use Claude connects to Folio's MCP server at `https://myfolio.so/mcp` and sends you to Folio's consent screen. Sign in, review what Claude is asking for, approve. You can revoke access any time from your Folio settings.
+On first use Claude connects to Folio's MCP server at `https://mcp.myfolio.so/mcp` and sends you to Folio's consent screen. Sign in, review what Claude is asking for, approve. You can revoke access any time from your Folio settings.
 
 ## Try it
 
