@@ -11,6 +11,7 @@
   },
   "homepage": "https://myfolio.so",
   "repository": "https://github.com/bvdr/folio-claude-plugin",
+  "privacyPolicyUrl": "https://myfolio.so/privacy",
   "license": "MIT",
   "keywords": ["reading", "read-later", "remarkable", "kindle", "e-ink", "pdf", "epub", "rss"]
 }
